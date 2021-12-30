@@ -30,6 +30,7 @@
   <summary>:zap: GitHub Stats</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmddzidane&theme=radical)
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mhmddzidane&layout=compact&theme=tokyonight'>
 
 </details>
 
