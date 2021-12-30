@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Zidane👋
 
 [![Website](https://img.shields.io/website?label=MuhammadZidane&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/mhmddzidane)
-<img width="70px" src="https://gpvc.arturio.dev/mhmddzidane" />
+<img width="150px" src="https://gpvc.arturio.dev/mhmddzidane" />
 
 ### Connect with me:
 
